@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd1497c8.css",
-    "main.js": "/static/js/main.55ae8cee.js",
+    "main.css": "/static/css/main.a75582d8.css",
+    "main.js": "/static/js/main.b85f4a3d.js",
     "static/js/787.60e807ed.chunk.js": "/static/js/787.60e807ed.chunk.js",
     "static/media/BestBuyHomePage.jpg": "/static/media/BestBuyHomePage.ddba31e41c960874b4f7.jpg",
-    "static/media/heroImage.png": "/static/media/heroImage.65cf4bbedd1b6e85e787.png",
+    "static/media/heroImage.png": "/static/media/heroImage.a4d36c472c64a867a6d9.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -12,12 +12,12 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.fd1497c8.css.map": "/static/css/main.fd1497c8.css.map",
-    "main.55ae8cee.js.map": "/static/js/main.55ae8cee.js.map",
+    "main.a75582d8.css.map": "/static/css/main.a75582d8.css.map",
+    "main.b85f4a3d.js.map": "/static/js/main.b85f4a3d.js.map",
     "787.60e807ed.chunk.js.map": "/static/js/787.60e807ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd1497c8.css",
-    "static/js/main.55ae8cee.js"
+    "static/css/main.a75582d8.css",
+    "static/js/main.b85f4a3d.js"
   ]
 }
